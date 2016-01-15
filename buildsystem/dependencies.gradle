@@ -1,0 +1,14 @@
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+
+ext {
+    //Android
+    androidBuildToolsVersion ="23.0.2"
+
+//Libraries
+
+//Testing
+}
